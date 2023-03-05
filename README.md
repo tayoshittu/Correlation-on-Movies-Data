@@ -2,6 +2,8 @@
 
 In this project, Python is used to find correlations between variables of a movies dataset.
 
+## Dataset: https://www.kaggle.com/datasets/danielgrijalvas/movies
+
 ### Content
 There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
 
